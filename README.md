@@ -1,2 +1,4 @@
 # Windows-Hosts-Site-Blocker
-Script Python que bloqueia sites específicos adicionando-os ao arquivo hosts do Windows
+Este script em Python permite bloquear sites específicos adicionando-os ao arquivo de hosts do sistema operacional. Isso impede o acesso a esses sites no computador em que o script foi executado.
+
+Para executar o script, é necessário ter privilégios de administrador.
